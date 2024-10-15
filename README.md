@@ -16,7 +16,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 - 💬 Ask me about blog writing.
 - 📫 How to reach me: Check the Connect with me section.
 
----
+
 ## 📕 Latest Blog Posts
 - [Mastering Object-Oriented Programming in Java: A Comprehensive Guide](https://dev.to/dev-dhanushkumar/mastering-object-oriented-programming-in-java-a-comprehensive-guide-258k)
 
@@ -26,14 +26,15 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
   <a href="https://dev.to/dev-dhanushkumar"><img alt="Static Badge" src="https://img.shields.io/badge/dev-black?style=for-the-badge&logo=dev&logoColor=white"></a>
 </p>
 
----
+
 ## 🧰 Languages and Tools
 <p align="center">
-
-<a href="https://github.com/dev-dhanushkumar">
+  
+<!--<a href="https://github.com/dev-dhanushkumar">
     <img title="GitHub Stats" alt="Sarvesh's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dhanushkumar&hide=html&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true"/>
 </a> <br>
 <br>
+-->
 
 <img align="left" alt="rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"/>
 <img align="left" alt="go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
@@ -54,7 +55,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 <br>
 </p>
 
-
+<!--
 ---
 ## 🔥 GitHub stats:
 
@@ -68,6 +69,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 </p>
 
 ---
+-->
 ## 💬 Connect with me
 <p align="left">
   <a href="https://discord.com/users/dhanush0307"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
