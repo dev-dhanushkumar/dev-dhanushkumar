@@ -1,6 +1,6 @@
 # Hi there! I'm Dhanush Kumar 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Salsa&size=25&pause=500&color=207222B8&b&vCenter=true&random=false&width=880&height=50&lines=My+username+is+%40dev-dhanushkumar;Below+you+can+read+about+me+and+the+reasons+why+I'm+on+Github." alt="Typing SVG" /></a><br />
+<a href="https://github.com//dev-dhanushkumar"><img src="https://readme-typing-svg.demolab.com?font=Salsa&size=25&pause=500&color=207222B8&b&vCenter=true&random=false&width=880&height=50&lines=My+username+is+%40dev-dhanushkumar;Below+you+can+read+about+me+and+the+reasons+why+I'm+on+Github." alt="Typing SVG" /></a><br />
 Visitor number: <img src="https://profile-counter.glitch.me/dev-dhanushkumar/count.svg"></img>
 
 
