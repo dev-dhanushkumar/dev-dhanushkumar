@@ -21,6 +21,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 
 ## 📕 Latest Blog Posts
 - [Mastering Object-Oriented Programming in Java: A Comprehensive Guide](https://dev.to/dev-dhanushkumar/mastering-object-oriented-programming-in-java-a-comprehensive-guide-258k)
+- [Mastering-Java-Arraylists-a-Comprehensive-Guide](https://dev.to/dev-dhanushkumar/mastering-java-arraylists-a-comprehensive-guide-4h0)
 
 <p align="left">
 <a href="https://medium.com/@dhanushkumar2682"><img alt="Static Badge" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;
