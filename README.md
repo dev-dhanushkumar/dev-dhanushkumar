@@ -12,7 +12,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 </p>
 
 - 🔭 I’m currently working on one Full-Stack project.
-- 🌱 I’m currently learning Rust and WebAssembly.
+- 🌱 I’m currently learning Rust, RPC and Microservices.
 - 👯 I’m looking to collaborate on Rust Projects.
 - 🤔 I’m looking for help with Rust project structure.
 - 💬 Ask me about blog writing.
