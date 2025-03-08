@@ -20,6 +20,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 
 
 ## 📕 Latest Blog Posts
+- [Part 1: Introduction and basic of WebGPU](https://dev.to/dev-dhanushkumar/part-1-introduction-and-basics-of-webgpu-46i0)
 - [MyTask ToDo CLI tool using Golang](https://dev.to/dev-dhanushkumar/mytask-todo-cli-tool-2kej)
 - [Mastering Object-Oriented Programming in Java: A Comprehensive Guide](https://dev.to/dev-dhanushkumar/mastering-object-oriented-programming-in-java-a-comprehensive-guide-258k)
 - [Mastering-Java-Arraylists-a-Comprehensive-Guide](https://dev.to/dev-dhanushkumar/mastering-java-arraylists-a-comprehensive-guide-4h0)
