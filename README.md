@@ -6,13 +6,13 @@ Visitor number: <img src="https://profile-counter.glitch.me/dev-dhanushkumar/cou
 
 ## 🙋‍♂️ About me
 <p style="text-align: justify;">
-I'm a computer science student who loves solving problems and building cool things. It's not just about frameworks and languages for me – I focus on quality, performance, and maintainability in both code and processes.
+I'm a software developer. who loves solving problems and building cool things. It's not just about frameworks and languages for me – I focus on quality, performance, and maintainability in both code and processes.
 
 I enjoy taking on projects that range from fun to challenging, always aiming to push boundaries and learn something new. Collaboration is a big part of what I do, so if you're interested in teaming up, I mainly work with, and feel free to reach out!
 </p>
 
-- 🔭 I’m currently working on one Full-Stack project.
-- 🌱 I’m currently learning Rust, RPC and Microservices.
+- 🔭 I’m currently working on one WASM based projects.
+- 🌱 I’m currently learning Rust, WASM and Distributed Computing.
 - 👯 I’m looking to collaborate on Rust Projects.
 - 🤔 I’m looking for help with Rust project structure.
 - 💬 Ask me about blog writing.
