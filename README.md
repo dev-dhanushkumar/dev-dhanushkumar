@@ -23,6 +23,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 - [MyTask ToDo CLI tool using Golang](https://dev.to/dev-dhanushkumar/mytask-todo-cli-tool-2kej)
 - [Mastering Object-Oriented Programming in Java: A Comprehensive Guide](https://dev.to/dev-dhanushkumar/mastering-object-oriented-programming-in-java-a-comprehensive-guide-258k)
 - [Mastering-Java-Arraylists-a-Comprehensive-Guide](https://dev.to/dev-dhanushkumar/mastering-java-arraylists-a-comprehensive-guide-4h0)
+- [What is NAT? Understanding Types of NAT Made Simple](https://dev.to/dev-dhanushkumar/what-is-nat-understanding-types-of-nat-made-simple-4eh)
 
 <p align="left">
 <a href="https://medium.com/@dhanushkumar2682"><img alt="Static Badge" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;
@@ -79,6 +80,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
   <a href="https://discord.com/users/dhanush0307"><img alt="Static Badge" src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
   <a href="https://www.linkedin.com/in/dhanush-kumar-b61a73282/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="https://t.me/dhanush_M_003"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.instagram.com/dev_dhanushkumar"><img alt="Static Badge" src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=purple"></a>
 </p>
 
 
