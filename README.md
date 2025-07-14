@@ -26,7 +26,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 - [What is NAT? Understanding Types of NAT Made Simple](https://dev.to/dev-dhanushkumar/what-is-nat-understanding-types-of-nat-made-simple-4eh)
 
 <p align="left">
-<a href="https://medium.com/@dhanushkumar2682"><img alt="Static Badge" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;
+<a href="https://dev-dhanushkumar.medium.com/"><img alt="Static Badge" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;
   <a href="https://stackoverflow.com/users/23688025/dev-dhanushkumar"><img alt="Static Badge" src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>&nbsp;
   <a href="https://dev.to/dev-dhanushkumar"><img alt="Static Badge" src="https://img.shields.io/badge/dev-black?style=for-the-badge&logo=dev&logoColor=white"></a>
 </p>
