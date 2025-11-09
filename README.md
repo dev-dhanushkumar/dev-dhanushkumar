@@ -10,7 +10,7 @@ I'm a Dhanush Kumar just Tech. who loves solving problems and building cool thin
 I enjoy taking on projects that range from fun to challenging, always aiming to push boundaries and learn something new. Collaboration is a big part of what I do, so if you're interested in teaming up, I mainly work with, and feel free to reach out!
 </p>
 
-- 🔭 I’m currently working on one WASM based projects.
+- 🔭 I’m currently working on one Full Stack Development based projects.
 - 🌱 I’m currently learning Rust, WASM and Distributed Computing.
 - 👯 I’m looking to collaborate on Rust Projects.
 - 🤔 I’m looking for help with Rust project structure.
@@ -31,6 +31,7 @@ I enjoy taking on projects that range from fun to challenging, always aiming to 
 <a href="https://dev-dhanushkumar.medium.com/"><img alt="Static Badge" src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;
   <a href="https://stackoverflow.com/users/23688025/dev-dhanushkumar"><img alt="Static Badge" src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>&nbsp;
   <a href="https://dev.to/dev-dhanushkumar"><img alt="Static Badge" src="https://img.shields.io/badge/dev-black?style=for-the-badge&logo=dev&logoColor=white"></a>
+  <a href="https://leetcode.com/dev-dhanushkumar"><img alt="Static Badge" src="https://img.shields.io/badge/leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
 
